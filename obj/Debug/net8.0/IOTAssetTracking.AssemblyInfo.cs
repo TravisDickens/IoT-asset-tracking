@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IOTAssetTracking")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c56e16e53193318fc352eaecd198ee3c9b2717ba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b60a97a367d30bcf9d9d105afca7a959281bf9f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("IOTAssetTracking")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IOTAssetTracking")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

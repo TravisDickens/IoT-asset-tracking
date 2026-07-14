@@ -25,7 +25,7 @@
             <div class="device-form-page__field">
                 <label asp-for="ParentGroupID">Parent Group (optional)</label>
                 <select asp-for="ParentGroupID" asp-items="ViewBag.ParentGroupID" class="form-select">
-                    <option value="">-- No parent (top-level group) --</option>
+                    <option value="">No parent</option>
                 </select>
                 <span asp-validation-for="ParentGroupID" class="text-danger"></span>
             </div>

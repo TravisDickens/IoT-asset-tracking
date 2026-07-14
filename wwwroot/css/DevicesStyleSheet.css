@@ -73,7 +73,6 @@
     max-width: 34rem;
 }
 
-/* CTA: uppercase mono + arrow — not a filled button */
 .devices-page__btn-new {
     display: inline-flex;
     align-items: center;
@@ -590,7 +589,6 @@
         color: var(--ink) !important;
     }
 
-/* ========== Mobile ========== */
 
 @media (max-width: 720px) {
     .devices-page,

@@ -65,7 +65,6 @@
     max-width: 34rem;
 }
 
-/* CTA: uppercase mono + arrow — not a filled button */
 .firmware-page__btn-new {
     display: inline-flex;
     align-items: center;
@@ -225,7 +224,6 @@
         color: var(--accent) !important;
     }
 
-/* Version input on Create/Edit uses mono */
 .device-form-page input[name="Version"],
 .device-form-page #Version {
     font-family: "IBM Plex Mono", monospace;

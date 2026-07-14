@@ -1,3 +1,6 @@
+wwwroot\css\DevicesStyleSheet.css
+wwwroot\css\firmware.css
+wwwroot\css\Groups.css
 wwwroot\css\Home.css
 wwwroot\css\Layout.css
 wwwroot\css\site.css
@@ -60,6 +63,3 @@ wwwroot\lib\jquery\dist\jquery.js
 wwwroot\lib\jquery\dist\jquery.min.js
 wwwroot\lib\jquery\dist\jquery.min.map
 wwwroot\lib\jquery\LICENSE.txt
-wwwroot\css\DevicesStyleSheet.css
-wwwroot\css\firmware.css
-wwwroot\css\Groups.css
