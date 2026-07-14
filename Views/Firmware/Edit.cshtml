@@ -1,0 +1,40 @@
+@model Firmware
+@{
+    ViewData["Title"] = "Edit Firmware";
+}
+
+<head>
+    <link rel="stylesheet" href="~/css/DevicesStyleSheet.css" asp-append-version="true" />
+</head>
+
+<div class="device-form-page">
+    <header class="device-form-page__header">
+        <h1>Edit Firmware</h1>
+        <p>Update the name, version, or release date for this build.</p>
+    </header>
+
+    <div class="device-form-page__panel">
+        <form asp-action="Edit" method="post">
+            <input type="hidden" asp-for="FirmwareID" />
+            <div class="device-form-page__field">
+                <label asp-for="FirmwareName">Firmware Name</label>
+                <input asp-for="FirmwareName" class="form-control" />
+                <span asp-validation-for="FirmwareName" class="text-danger"></span>
+            </div>
+            <div class="device-form-page__field">
+                <label asp-for="Version">Version</label>
+                <input asp-for="Version" class="form-control" />
+                <span asp-validation-for="Version" class="text-danger"></span>
+            </div>
+            <div class="device-form-page__field">
+                <label asp-for="ReleaseDate">Release Date</label>
+                <input asp-for="ReleaseDate" type="date" class="form-control" />
+                <span asp-validation-for="ReleaseDate" class="text-danger"></span>
+            </div>
+            <div class="device-form-page__actions">
+                <button type="submit" class="device-form-page__btn-save">Save</button>
+                <a asp-action="Index" class="device-form-page__btn-cancel">Cancel</a>
+            </div>
+        </form>
+    </div>
+</div>

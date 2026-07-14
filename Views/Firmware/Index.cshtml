@@ -1,0 +1,44 @@
+@model IEnumerable<Firmware>
+@{
+    ViewData["Title"] = "Firmware";
+}
+<head>
+    <link rel="stylesheet" href="~/css/firmware.css" asp-append-version="true" />
+</head>
+<div class="firmware-page">
+    <header class="firmware-page__header">
+        <div class="firmware-page__intro">
+            <h1>Firmware</h1>
+            <p>Named builds, versions, and release dates for device updates.</p>
+        </div>
+        <a class="firmware-page__btn-new" asp-action="Create">+ New Firmware</a>
+    </header>
+
+    <div class="firmware-page__table-wrap">
+        <table>
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Version</th>
+                    <th>Release Date</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td><span class="firmware-page__name">@item.FirmwareName</span></td>
+                        <td><span class="firmware-page__version">@item.Version</span></td>
+                        <td><span class="firmware-page__date">@item.ReleaseDate.ToString("yyyy-MM-dd")</span></td>
+                        <td class="firmware-page__actions">
+                            <a class="firmware-page__link-edit" asp-action="Edit" asp-route-id="@item.FirmwareID">Edit</a>
+                            <span class="firmware-page__sep">|</span>
+                            <a class="firmware-page__link-delete" asp-action="Delete" asp-route-id="@item.FirmwareID">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

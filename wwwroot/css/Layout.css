@@ -1,0 +1,130 @@
+﻿/* ========== App navbar ========== */
+
+body {
+    font-family: "IBM Plex Sans", sans-serif;
+    color: #1C2430;
+    background: #FFFFFF;
+}
+
+.am-header {
+    background: #FFFFFF;
+    border-bottom: 1px solid #E4E1DC;
+    margin-bottom: 0;
+}
+
+.am-nav {
+    padding: 0;
+    background: transparent;
+    box-shadow: none !important;
+    width: 100%;
+}
+
+.am-nav__inner {
+    width: 100%;
+    max-width: none;
+    margin: 0;
+    padding: 0.85rem 1.5rem;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 2rem;
+}
+
+.am-nav__brand {
+    margin-right: auto;
+    font-family: "Space Grotesk", sans-serif;
+    font-weight: 600;
+    font-size: 1.05rem;
+    letter-spacing: -0.02em;
+    color: #1C2430 !important;
+    text-decoration: none !important;
+    line-height: 1.2;
+    flex-shrink: 0;
+}
+
+    .am-nav__brand:hover {
+        color: #B5461F !important;
+    }
+
+.am-nav__toggler {
+    margin-left: auto;
+    border: 1px solid #E4E1DC;
+    border-radius: 6px;
+    padding: 0.35rem 0.5rem;
+}
+
+    .am-nav__toggler:focus {
+        box-shadow: 0 0 0 3px rgba(181, 70, 31, 0.18);
+        outline: none;
+    }
+
+.am-nav__collapse {
+    flex-grow: 0 !important;
+    margin-left: auto;
+}
+
+.am-nav__list {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 0.15rem 1.35rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.am-nav__link {
+    font-family: "IBM Plex Mono", monospace !important;
+    font-size: 0.7rem !important;
+    font-weight: 500 !important;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #5F6672 !important;
+    text-decoration: none !important;
+    padding: 0.35rem 0 !important;
+    border-bottom: 1.5px solid transparent;
+    transition: color 0.15s ease, border-color 0.15s ease;
+}
+
+    .am-nav__link:hover {
+        color: #B5461F !important;
+    }
+
+    .am-nav__link.active,
+    .am-nav .nav-link.active {
+        color: #B5461F !important;
+        border-bottom-color: #B5461F;
+    }
+
+@media (max-width: 575.98px) {
+    .am-nav__inner {
+        flex-wrap: wrap;
+        padding: 0.75rem 1rem;
+    }
+
+    .am-nav__brand {
+        margin-right: 0;
+    }
+
+    .am-nav__collapse {
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .am-nav__list {
+        width: 100%;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 0.15rem;
+        padding-top: 0.75rem;
+        border-top: 1px solid #E4E1DC;
+        margin-top: 0.5rem;
+    }
+
+    .am-nav__link {
+        padding: 0.5rem 0 !important;
+    }
+}

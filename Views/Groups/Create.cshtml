@@ -1,0 +1,36 @@
+@model Group
+@{
+    ViewData["Title"] = "New Group";
+}
+
+
+<head>
+    <link rel="stylesheet" href="~/css/DevicesStyleSheet.css" asp-append-version="true" />
+</head>
+
+<div class="device-form-page">
+    <header class="device-form-page__header">
+        <h1>New Group</h1>
+        <p>Create a top-level group or nest it under an existing parent.</p>
+    </header>
+
+    <div class="device-form-page__panel">
+        <form asp-action="Create" method="post">
+            <div class="device-form-page__field">
+                <label asp-for="GroupName">Group Name</label>
+                <input asp-for="GroupName" class="form-control" />
+                <span asp-validation-for="GroupName" class="text-danger"></span>
+            </div>
+            <div class="device-form-page__field">
+                <label asp-for="ParentGroupID">Parent Group (optional)</label>
+                <select asp-for="ParentGroupID" asp-items="ViewBag.ParentGroupID" class="form-select">
+                    <option value="">-- No parent (top-level group) --</option>
+                </select>
+            </div>
+            <div class="device-form-page__actions">
+                <button type="submit" class="device-form-page__btn-save">Save</button>
+                <a asp-action="Index" class="device-form-page__btn-cancel">Cancel</a>
+            </div>
+        </form>
+    </div>
+</div>

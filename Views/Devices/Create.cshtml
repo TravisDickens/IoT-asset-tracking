@@ -1,0 +1,47 @@
+@model Device
+@{
+    ViewData["Title"] = "New Device";
+}
+
+<head>
+    <link rel="stylesheet" href="~/css/DevicesStyleSheet.css" asp-append-version="true" />
+</head>
+
+<div class="device-form-page">
+    <header class="device-form-page__header">
+        <h1>New Device</h1>
+        <p>Register a device with serial, firmware, and an optional group.</p>
+    </header>
+
+    <div class="device-form-page__panel">
+        <form asp-action="Create" method="post">
+            <div class="device-form-page__field">
+                <label asp-for="SerialNumber">Serial Number</label>
+                <input asp-for="SerialNumber" class="form-control" />
+                <span asp-validation-for="SerialNumber" class="text-danger"></span>
+            </div>
+            <div class="device-form-page__field">
+                <label asp-for="DeviceName">Device Name</label>
+                <input asp-for="DeviceName" class="form-control" />
+                <span asp-validation-for="DeviceName" class="text-danger"></span>
+            </div>
+            <div class="device-form-page__field">
+                <label asp-for="FirmwareID">Firmware</label>
+                <select asp-for="FirmwareID" asp-items="ViewBag.FirmwareID" class="form-select">
+                    <option value="">-- Select firmware --</option>
+                </select>
+                <span asp-validation-for="FirmwareID" class="text-danger"></span>
+            </div>
+            <div class="device-form-page__field">
+                <label asp-for="GroupID">Group (optional)</label>
+                <select asp-for="GroupID" asp-items="ViewBag.GroupID" class="form-select">
+                    <option value="">-- No group --</option>
+                </select>
+            </div>
+            <div class="device-form-page__actions">
+                <button type="submit" class="device-form-page__btn-save">Save</button>
+                <a asp-action="Index" class="device-form-page__btn-cancel">Cancel</a>
+            </div>
+        </form>
+    </div>
+</div>

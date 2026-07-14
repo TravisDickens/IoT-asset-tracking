@@ -1,0 +1,63 @@
+@model IEnumerable<Group>
+@{
+    ViewData["Title"] = "Groups";
+}
+
+
+<head>
+    <link rel="stylesheet" href="~/css/Groups.css" asp-append-version="true" />
+</head>
+
+<div class="groups-page">
+    <header class="groups-page__header">
+        <div class="groups-page__intro">
+            <h1>Groups</h1>
+            <p>Nested asset groups and their parent relationships.</p>
+        </div>
+        <a class="groups-page__btn-new" asp-action="Create">+ New Group</a>
+    </header>
+
+    <div class="groups-page__table-wrap">
+        <table>
+            <thead>
+                <tr>
+                    <th>Group Name</th>
+                    <th>Parent Group</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var group in Model)
+                {
+                    <tr>
+                        <td>
+                            <span class="groups-page__name">
+                                @if (group.Depth > 0)
+                                {
+                                    <span class="groups-page__indent" style="--depth: @group.Depth"></span>
+                                    <span class="groups-page__branch" aria-hidden="true"></span>
+                                }
+                                @group.GroupName
+                            </span>
+                        </td>
+                        <td class="groups-page__parent">
+                            @if (group.ParentGroup?.GroupName != null)
+                            {
+                                <span class="groups-page__parent-pill">@group.ParentGroup.GroupName</span>
+                            }
+                            else
+                            {
+                                <span class="groups-page__parent-empty">-</span>
+                            }
+                        </td>
+                        <td class="groups-page__actions">
+                            <a class="groups-page__link-edit" asp-action="Edit" asp-route-id="@group.GroupID">Edit</a>
+                            <span class="groups-page__sep">|</span>
+                            <a class="groups-page__link-delete" asp-action="Delete" asp-route-id="@group.GroupID">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

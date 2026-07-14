@@ -1,0 +1,583 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|c:\\users\\travi\\source\\repos\\iotassettracking\\wwwroot\\css\\groups.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|solutionrelative:wwwroot\\css\\groups.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|c:\\users\\travi\\source\\repos\\iotassettracking\\wwwroot\\css\\firmware.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|solutionrelative:wwwroot\\css\\firmware.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|c:\\users\\travi\\source\\repos\\iotassettracking\\wwwroot\\css\\devicesstylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|solutionrelative:wwwroot\\css\\devicesstylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|c:\\users\\travi\\source\\repos\\iotassettracking\\views\\devices\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|solutionrelative:views\\devices\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|c:\\users\\travi\\source\\repos\\iotassettracking\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|c:\\users\\travi\\source\\repos\\iotassettracking\\wwwroot\\css\\layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|solutionrelative:wwwroot\\css\\layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|c:\\users\\travi\\source\\repos\\iotassettracking\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|c:\\users\\travi\\source\\repos\\iotassettracking\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|solutionrelative:controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA23D0F-8258-4361-880B-9E2336D28E06}|..\\IOTAssetTracking.Tests\\IOTAssetTracking.Tests.csproj|c:\\users\\travi\\source\\repos\\iotassettracking.tests\\devicescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA23D0F-8258-4361-880B-9E2336D28E06}|..\\IOTAssetTracking.Tests\\IOTAssetTracking.Tests.csproj|c:\\users\\travi\\source\\repos\\iotassettracking.tests\\firmwarecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA23D0F-8258-4361-880B-9E2336D28E06}|..\\IOTAssetTracking.Tests\\IOTAssetTracking.Tests.csproj|c:\\users\\travi\\source\\repos\\iotassettracking.tests\\groupscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA23D0F-8258-4361-880B-9E2336D28E06}|..\\IOTAssetTracking.Tests\\IOTAssetTracking.Tests.csproj|c:\\users\\travi\\source\\repos\\iotassettracking.tests\\testdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|c:\\users\\travi\\source\\repos\\iotassettracking\\views\\groups\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|solutionrelative:views\\groups\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|c:\\users\\travi\\source\\repos\\iotassettracking\\views\\groups\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|solutionrelative:views\\groups\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|c:\\users\\travi\\source\\repos\\iotassettracking\\views\\groups\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|solutionrelative:views\\groups\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|c:\\users\\travi\\source\\repos\\iotassettracking\\controllers\\firmwarecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|solutionrelative:controllers\\firmwarecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|c:\\users\\travi\\source\\repos\\iotassettracking\\controllers\\devicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|solutionrelative:controllers\\devicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|c:\\users\\travi\\source\\repos\\iotassettracking\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|solutionrelative:models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|c:\\users\\travi\\source\\repos\\iotassettracking\\models\\firmware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|solutionrelative:models\\firmware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|c:\\users\\travi\\source\\repos\\iotassettracking\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|solutionrelative:models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|c:\\users\\travi\\source\\repos\\iotassettracking\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|c:\\users\\travi\\source\\repos\\iotassettracking\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|solutionrelative:wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|c:\\users\\travi\\source\\repos\\iotassettracking\\views\\groups\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|solutionrelative:views\\groups\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|c:\\users\\travi\\source\\repos\\iotassettracking\\views\\firmware\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|solutionrelative:views\\firmware\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|c:\\users\\travi\\source\\repos\\iotassettracking\\views\\firmware\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|solutionrelative:views\\firmware\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|c:\\users\\travi\\source\\repos\\iotassettracking\\views\\firmware\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|solutionrelative:views\\firmware\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|c:\\users\\travi\\source\\repos\\iotassettracking\\views\\firmware\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|solutionrelative:views\\firmware\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|c:\\users\\travi\\source\\repos\\iotassettracking\\views\\devices\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|solutionrelative:views\\devices\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|c:\\users\\travi\\source\\repos\\iotassettracking\\views\\devices\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|solutionrelative:views\\devices\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|c:\\users\\travi\\source\\repos\\iotassettracking\\views\\devices\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|solutionrelative:views\\devices\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|c:\\users\\travi\\source\\repos\\iotassettracking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|c:\\users\\travi\\source\\repos\\iotassettracking\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|c:\\users\\travi\\source\\repos\\iotassettracking\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BB286C5C-9D23-4B28-9D49-41780FC2AEEF}|IOTAssetTracking.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Firmware.cs",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\Models\\Firmware.cs",
+              "RelativeDocumentMoniker": "Models\\Firmware.cs",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\Models\\Firmware.cs",
+              "RelativeToolTip": "Models\\Firmware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T19:14:24.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "Models\\Group.cs",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\Models\\Group.cs",
+              "RelativeToolTip": "Models\\Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T19:14:39.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FirmwareController.cs",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\Controllers\\FirmwareController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FirmwareController.cs",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\Controllers\\FirmwareController.cs",
+              "RelativeToolTip": "Controllers\\FirmwareController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFMAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T19:53:36.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GroupsController.cs",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\Controllers\\GroupsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GroupsController.cs",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\Controllers\\GroupsController.cs",
+              "RelativeToolTip": "Controllers\\GroupsController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAIkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T19:51:49.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DevicesStyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\wwwroot\\css\\DevicesStyleSheet.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\DevicesStyleSheet.css",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\wwwroot\\css\\DevicesStyleSheet.css",
+              "RelativeToolTip": "wwwroot\\css\\DevicesStyleSheet.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-07-13T18:14:49.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "firmware.css",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\wwwroot\\css\\firmware.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\firmware.css",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\wwwroot\\css\\firmware.css",
+              "RelativeToolTip": "wwwroot\\css\\firmware.css",
+              "ViewState": "AgIAAAEAAAAAAAAAAAASwA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-07-13T18:32:19.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Groups.css",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\wwwroot\\css\\Groups.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\Groups.css",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\wwwroot\\css\\Groups.css",
+              "RelativeToolTip": "wwwroot\\css\\Groups.css",
+              "ViewState": "AgIAAAEAAAAAAAAAAAASwBEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-07-13T18:40:25.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-12T19:55:48.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-12T19:37:04.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\Views\\Devices\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Devices\\Index.cshtml",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\Views\\Devices\\Index.cshtml",
+              "RelativeToolTip": "Views\\Devices\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-12T19:59:51.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TestDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking.Tests\\TestDbContextFactory.cs",
+              "RelativeDocumentMoniker": "..\\IOTAssetTracking.Tests\\TestDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking.Tests\\TestDbContextFactory.cs",
+              "RelativeToolTip": "..\\IOTAssetTracking.Tests\\TestDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T17:13:52.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Layout.css",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\wwwroot\\css\\Layout.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\Layout.css",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\wwwroot\\css\\Layout.css",
+              "RelativeToolTip": "wwwroot\\css\\Layout.css",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAiwIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-07-14T17:40:27.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GroupsControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking.Tests\\GroupsControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\IOTAssetTracking.Tests\\GroupsControllerTests.cs",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking.Tests\\GroupsControllerTests.cs",
+              "RelativeToolTip": "..\\IOTAssetTracking.Tests\\GroupsControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T17:17:24.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FirmwareControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking.Tests\\FirmwareControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\IOTAssetTracking.Tests\\FirmwareControllerTests.cs",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking.Tests\\FirmwareControllerTests.cs",
+              "RelativeToolTip": "..\\IOTAssetTracking.Tests\\FirmwareControllerTests.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T17:19:08.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DevicesControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking.Tests\\DevicesControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\IOTAssetTracking.Tests\\DevicesControllerTests.cs",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking.Tests\\DevicesControllerTests.cs",
+              "RelativeToolTip": "..\\IOTAssetTracking.Tests\\DevicesControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T17:20:48.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\Models\\Device.cs",
+              "RelativeDocumentMoniker": "Models\\Device.cs",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\Models\\Device.cs",
+              "RelativeToolTip": "Models\\Device.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T19:14:11.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\Views\\Devices\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Devices\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\Views\\Devices\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Devices\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-13T18:08:21.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\Views\\Groups\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Groups\\Create.cshtml",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\Views\\Groups\\Create.cshtml",
+              "RelativeToolTip": "Views\\Groups\\Create.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-13T18:39:39.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\Views\\Groups\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Groups\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\Views\\Groups\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Groups\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-13T18:39:30.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\Views\\Groups\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Groups\\Index.cshtml",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\Views\\Groups\\Index.cshtml",
+              "RelativeToolTip": "Views\\Groups\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-12T19:59:09.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "Data\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T19:12:56.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\Views\\Devices\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Devices\\Create.cshtml",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\Views\\Devices\\Create.cshtml",
+              "RelativeToolTip": "Views\\Devices\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-13T18:05:16.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\Views\\Devices\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Devices\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\Views\\Devices\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Devices\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-13T18:08:15.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DevicesController.cs",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\Controllers\\DevicesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DevicesController.cs",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\Controllers\\DevicesController.cs",
+              "RelativeToolTip": "Controllers\\DevicesController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T18:50:30.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\Views\\Firmware\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Firmware\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\Views\\Firmware\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Firmware\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-13T18:30:34.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\Views\\Firmware\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Firmware\\Index.cshtml",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\Views\\Firmware\\Index.cshtml",
+              "RelativeToolTip": "Views\\Firmware\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-13T18:30:39.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Home.css",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\wwwroot\\css\\Home.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\Home.css",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\wwwroot\\css\\Home.css",
+              "RelativeToolTip": "wwwroot\\css\\Home.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-07-13T18:46:05.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\Views\\Groups\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Groups\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\Views\\Groups\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Groups\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-13T18:39:35.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\Views\\Firmware\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Firmware\\Create.cshtml",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\Views\\Firmware\\Create.cshtml",
+              "RelativeToolTip": "Views\\Firmware\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-13T18:30:25.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\Views\\Firmware\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Firmware\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\Views\\Firmware\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Firmware\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-13T18:30:29.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T17:35:04.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T19:27:17.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\IOTAssetTracking\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-12T19:24:16.049Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 211,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

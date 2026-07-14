@@ -1,0 +1,67 @@
+@model IEnumerable<Device>
+@{
+    ViewData["Title"] = "Devices";
+}
+
+<head>
+    <link rel="stylesheet" href="~/css/DevicesStyleSheet.css" asp-append-version="true" />
+</head>
+
+<div class="devices-page">
+    <header class="devices-page__header">
+        <div class="devices-page__intro mt-2">
+            <h1>Devices</h1>
+            <p>Serial inventory, firmware, and group assignment for registered assets.</p>
+        </div>
+        <a class="devices-page__btn-new" asp-action="Create">+ New Device</a>
+    </header>
+
+    <div class="devices-page__table-wrap">
+        <table>
+            <thead>
+                <tr>
+                    <th>Serial Number</th>
+                    <th>Device Name</th>
+                    <th>Firmware</th>
+                    <th>Group</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var device in Model)
+                {
+                    <tr>
+                        <td>
+                            <span class="devices-page__serial">@device.SerialNumber</span>
+                        </td>
+                        <td>
+                            <span class="devices-page__name">@device.DeviceName</span>
+                        </td>
+                        <td class="devices-page__firmware">
+                            @device.Firmware?.FirmwareName
+                            @if (!string.IsNullOrWhiteSpace(device.Firmware?.Version))
+                            {
+                                <span class="devices-page__firmware-version">@device.Firmware.Version</span>
+                            }
+                        </td>
+                        <td class="devices-page__group">
+                            @if (device.Group?.GroupName != null)
+                            {
+                                <span class="devices-page__group-pill">@device.Group.GroupName</span>
+                            }
+                            else
+                            {
+                                <span class="devices-page__group-empty">-</span>
+                            }
+                        </td>
+                        <td class="devices-page__actions">
+                            <a class="devices-page__link-edit" asp-action="Edit" asp-route-id="@device.DeviceID">Edit</a>
+                            <span class="devices-page__sep">|</span>
+                            <a class="devices-page__link-delete" asp-action="Delete" asp-route-id="@device.DeviceID">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

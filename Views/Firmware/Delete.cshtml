@@ -1,0 +1,30 @@
+@model Firmware
+@{
+    ViewData["Title"] = "Delete Firmware";
+}
+
+<head>
+    <link rel="stylesheet" href="~/css/DevicesStyleSheet.css" asp-append-version="true" />
+</head>
+
+<div class="device-delete-page">
+    <header class="device-delete-page__header">
+        <h1>Delete Firmware</h1>
+        <p>This action cannot be undone.</p>
+    </header>
+
+    <div class="device-delete-page__panel">
+        <p class="device-delete-page__confirm">
+            Are you sure you want to delete
+            <strong>@Model.FirmwareName</strong>
+            <span class="device-delete-page__serial">@Model.Version</span>?
+        </p>
+        <form asp-action="Delete" method="post">
+            <input type="hidden" asp-for="FirmwareID" />
+            <div class="device-delete-page__actions">
+                <button type="submit" class="device-delete-page__btn-delete">Delete</button>
+                <a asp-action="Index" class="device-delete-page__btn-cancel">Cancel</a>
+            </div>
+        </form>
+    </div>
+</div>
